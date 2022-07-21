@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <h2>My name is: {process.env.REACT_APP_S3_BUCKET}</h2>
+        <h1>My name is nisharga</h1>
       </header>
     </div>
   );
